@@ -1,6 +1,6 @@
 # 🛣️ Python Elevated Expressway Management using PyQt and Oracle 10g
 
-A desktop-based elevated expressway toll management system built with Python (PyQt5) and Oracle 10g. This system manages user registration, toll payments, vehicle tracking, maintenance records, recharges, and salary details — all within a modern graphical interface
+A desktop-based elevated expressway toll management system built with Python (PyQt5) and Oracle 10g. This system manages user registration, toll payments, vehicle tracking, maintenance records, recharges, and salary details — all within a modern graphical interface.
 
 ---
 
