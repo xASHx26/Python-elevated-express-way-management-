@@ -5,7 +5,7 @@ A desktop-based elevated expressway toll management system built with Python (Py
 ---
 
 ## 👥 Roles Supported
-
+ 
 | Role      | Responsibilities                                                                 |
 |-----------|-----------------------------------------------------------------------------------|
 | 🔑 Admin     | (Optional) System-wide control panel (not mandatory)                             |
